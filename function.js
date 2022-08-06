@@ -2,15 +2,18 @@
 
 // Declear a funtion
 
-function startFunction() {
+// function startFunction() {
 
-    console.log(" How are you man");
-    console.log(" I am fine ");
-    console.log(" What are you doing babe");
-}
+//     console.log(" How are you man");
+//     console.log(" I am fine ");
+//     console.log(" What are you doing babe");
+// }
 
 // Call a function
 
-startFunction();
+// startFunction();
 
-console.log("tui kemon achis re", "Ami valo nei");
+// console.log("tui kemon achis re", "Ami valo nei");
+
+// Adding two numbers
+
